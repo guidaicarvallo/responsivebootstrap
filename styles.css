@@ -1,0 +1,12 @@
+.form-control::placeholder {
+    color: var(--secondary); 
+}
+
+@media (max-width: 991px) {
+    .ocultar {
+      display: none;
+    }
+    .mt-5 {
+      margin-top: 0.4em !important;
+    }
+}
